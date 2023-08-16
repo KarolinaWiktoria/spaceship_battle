@@ -14,5 +14,5 @@ HTML, CSS and JS
 
 ## Preview link
 
-[DEMO LINK](https://karolinawiktoria.github.io/spaceship_battle/)
+[DEMO LINK](https://karolinawiktoria.github.io/spaceship_battle/game.html)
 
